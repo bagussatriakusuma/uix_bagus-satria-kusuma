@@ -10,4 +10,11 @@ Ada pendapat lain juga Visual Hierarchy mengontrol penyampaian pengalaman sebuah
 Layout of Screen Elements. Pada materi ini membahas mengenai :<br>
 - Size and spacing system : Materi ini membahas penggunaan ukuran, kontras, highlight dari warna headline dan subheading.<br>
 - Position : Materi ini membahas mengenai ukuran, posisi, dan warna layout.<br>
-- Density : Materi inni membahas mengenai kepadatan ruang antara elemen dalam sebuah desain.
+- Density : Materi ini membahas mengenai kepadatan ruang antara elemen dalam sebuah desain.<br>
+- Background color : Materi ini membahas mengenai penambahan shadow atau background color pada suatu elemen. <br>
+- Rhythm : Materi ini membahas mengenai list, grid, whitespace, dan elemen alternatif seperti headline dan summaries.<br>
+- Emphasizing small items : Materi ini membahas mengenai pengaturan whitespace dan penempatan item.<br>
+- Alignment and grid : Materi ini membahas mengenai grid sebagai pemandu user.
+<p>
+The Basics of Visual Design : <br>
+Color and contrast, Typography, Evoking a feeling, Images.
