@@ -1,4 +1,4 @@
-Hasil Mini Project:rocket:
+# Hasil Mini Project:rocket:
 
 Link Portofolio (Medium) : https://medium.com/@bagussatriakusuma57/ux-case-study-redesign-alfagift-app-363e122aaa15
 
